@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-[#1E1E1E]">
       <div className="text-center">  <Image 
-          src="/brand/criterio-logo-maestro.svg" 
+          src="/brand/logo-real-sin-fondo.png" 
           alt="Criterio Media - Ojo Andino" 
           width={180} 
           height={180}
