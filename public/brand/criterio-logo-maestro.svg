@@ -1,0 +1,15 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" fill="white"/>
+  <g transform="translate(90, 90)">
+    <path d="M 0 -75 L 70 -5 L 0 75 L -70 -5 Z" fill="none" stroke="#C4A14A" stroke-width="6"/>
+    <ellipse cx="0" cy="-10" rx="45" ry="25" fill="none" stroke="#B85C3E" stroke-width="5"/>
+    <circle cx="0" cy="-10" r="12" fill="none" stroke="#B85C3E" stroke-width="5"/>
+    <path d="M 0 -10 A 8 8 0 0 1 -8 -10 A 8 8 0 0 1 0 -10" fill="#B85C3E"/>
+    <path d="M -60 20 L -40 20 L -35 15 L -30 25 L -20 15 L -15 25 L -5 15 L 0 25 L 5 15 L 15 25 L 20 15 L 30 25 L 35 15 L 40 20 L 60 20 L 60 35 L -60 35 Z" fill="#B85C3E"/>
+    <path d="M -50 22 L -45 22 L -42 19 L -38 24 L -32 19 L -28 24 L -22 19 L -18 24 L -12 19 L -8 24 L -2 19 L 2 24 L 8 19 L 12 24 L 18 19 L 22 24 L 28 19 L 32 24 L 38 19 L 42 22 L 50 22" stroke="white" stroke-width="2" fill="none"/>
+    <path d="M -55 26 L -50 31 L -45 26" fill="white"/>
+    <path d="M 45 26 L 50 31 L 55 26" fill="white"/>
+    <path d="M -45 55 Q -20 45 0 50 Q 20 45 45 55" stroke="#C4A14A" stroke-width="3" fill="none"/>
+    <path d="M -40 65 Q -15 55 0 60 Q 15 55 40 65" stroke="#C4A14A" stroke-width="3" fill="none"/>
+  </g>
+</svg>
