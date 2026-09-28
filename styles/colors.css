@@ -1,0 +1,8 @@
+:root {
+  --criterio-oro: #C9A961;
+  --criterio-terracota: #C14953;
+  --criterio-negro: #0A0A0A;
+  --criterio-blanco: #FFFFFF;
+}
+.text-criterio-terracota { color: var(--criterio-terracota); }
+.bg-criterio-negro { background-color: var(--criterio-negro); }
