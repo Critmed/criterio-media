@@ -3,8 +3,8 @@ import Image from 'next/image'
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center bg-[#0D0D0D]">
-      {/* Logo: 380px = medida base */}
-      <div className="mb-[38px]"> {/* 380/10 = 38px aire ritual */}
+      {/* LOGO - ESTE BLOQUE SE BORRÓ */}
+      <div className="mb-[38px]">
         <Image
           src="/brand/criterio-logo-maestro-svg-removebg-preview.png"
           alt="Criterio Media - Ojo Andino"
@@ -15,9 +15,8 @@ export default function Home() {
         />
       </div>
 
-      {/* Texto: colores extraídos del logo */}
+      {/* TEXTO CON COLORES DEL LOGO */}
       <div className="text-center">
-        {/* CRITERIO = Color del borde crema del rombo */}
         <h1
           className="font-black tracking-[0.4em] leading-[0.85]"
           style={{
@@ -28,7 +27,6 @@ export default function Home() {
           CRITERIO
         </h1>
 
-        {/* MEDIA = Color del ojo rosa central */}
         <h2
           className="font-extralight tracking-[0.7em] mt-[12px]"
           style={{
