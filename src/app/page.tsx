@@ -6,7 +6,7 @@ export default function Home() {
       {/* Logo en tercio superior visual */}
       <div className="mb-8">
         <Image
-          src="/brand/criterio-logo-maestro-svg-removebg-preview.png"
+          src="/brand/criterio-logo-maestro.svg-removebg-preview.png"
           alt="Criterio Media - Ojo Andino"
           width={380}
           height={380}
