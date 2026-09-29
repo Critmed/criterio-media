@@ -6,7 +6,7 @@ export default function Home() {
       {/* LOGO - ESTE BLOQUE SE BORRÓ */}
       <div className="mb-[38px]">
         <Image
-          src="/brand/criterio-logo-maestro-svg-removebg-preview.png"
+          src="/brand/ojo.png"
           alt="Criterio Media - Ojo Andino"
           width={380}
           height={380}
